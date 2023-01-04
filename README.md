@@ -1,3 +1,5 @@
+SIMPLE AND EASY STEPS TO READ DATA FROM GOOGLE SHEET
+
 1) Make a Google Sheet.
 2) Go to share,remove restriction by selecting "anyone with the link" and set it to Editior.
 3) Then copy the url.
